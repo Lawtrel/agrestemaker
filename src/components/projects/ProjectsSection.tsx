@@ -30,6 +30,14 @@ const projects = [
     summary:
       "",
   },
+
+  {
+    image: "/images/projects/ferramentas-digitais.svg",
+    title: "Tabuleiro de Mesa",
+    tags: ["Modelagem 3D", "Impressão 3D", "Design Funcional", "Personalização"],
+    summary:
+      "",
+  }
 ];
 
 export function ProjectsSection() {
