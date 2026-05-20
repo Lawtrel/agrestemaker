@@ -18,10 +18,10 @@ const projects = [
   },
   {
     image: "/images/projects/hardware-renascido.svg",
-    title: "Abelhas sem Ferrão",
-    tags: [ "Agricultura"],
+    title: "Meliponicultura com impressão 3D",
+    tags: [ "Agricultura", "Modelagem 3D", "Sustentabilidade"],
     summary:
-      "Um projeto de apicultura urbana que utiliza caixas de abelhas sem ferrão, adaptadas para ambientes urbanos. Com um design funcional e sustentável, as caixas são equipadas com sensores para monitoramento ambiental e saúde das colmeias, promovendo a biodiversidade e a polinização em áreas urbanas, além de oferecer uma fonte local de mel e educação ambiental.",
+      "O projeto une sustentabilidade e tecnologia ao aprimorar o manejo de abelhas sem ferrão em ambientes urbanos. Utilizando componentes funcionais e duráveis impressos em 3D (PET-G), o sistema otimiza caixas de madeira padrão com sensores de monitoramento ambiental e de saúde das colmeias, promovendo a biodiversidade, a polinização e a educação ambiental nas cidades.",
   },
   {
     image: "/images/projects/ferramentas-digitais.svg",
