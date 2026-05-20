@@ -43,9 +43,8 @@ export function TeamSection() {
       <div className="max-w-6xl mx-auto">
         <SectionHeading
           title="Quem Somos"
-          subtitle="Engenharia de Software aplicada ao mundo físico. Não somos apenas desenvolvedores — somos engenheiros que constroem com código E com as mãos."
+          subtitle="Não somos apenas desenvolvedores — somos engenheiros que constroem com código E com as mãos."
         />
-
         <div className="max-w-3xl mx-auto mb-16 text-center space-y-4">
           <p className="text-agreste-prata/80 leading-relaxed">
             Somos estudantes de Engenharia de Software que recusaram ficar só na
